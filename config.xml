@@ -2,10 +2,10 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "35200"
-        android-versionCode="35200"
-        version   = "3.5.2">
+        id        = "com.moodle.moodlemobilesbs9"
+        versionCode = "352001"
+        android-versionCode="352001"
+        version   = "3.5.21">
     <name>Moodle</name>
 
     <description>
@@ -144,7 +144,7 @@
         <param name="SENDER_ID" value="694767596569" />
     </gap:plugin>
     <gap:plugin name="cordova-plugin-customurlscheme" source="npm" >
-        <param name="URL_SCHEME" value="moodlemobile" />
+        <param name="URL_SCHEME" value="moodlemobilesbs9" />
     </gap:plugin>
     <gap:plugin name="ionic-plugin-keyboard" source="npm" />
     <gap:plugin name="cordova-plugin-zip" source="npm" />
